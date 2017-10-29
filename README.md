@@ -1,24 +1,13 @@
-# README
+## Todo API app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+As of rails 5, we can now generate API only applications!
+Previously, we relied on the `rails-api` gem, which has been
+merged into core rails.
 
-Things you may want to cover:
+API only applications are slimmed down compared to traditional 
+Rails applications.
+[Rails 5 release notes](http://guides.rubyonrails.org/5_0_release_notes.html#api-applications)
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Resources
+[API-only guide](http://guides.rubyonrails.org/api_app.html)
